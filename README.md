@@ -56,6 +56,8 @@ These courses contains free material that we can access and download.
 
 # COMING SOON COURSES
 
+The Comming Soon courses are the paid . This will contain the advance and detailed concept of Web Development and Data Structure and algorithm.
+
 
 ![omming soon](https://user-images.githubusercontent.com/81029259/203777086-74a7410f-e366-42ab-bf94-f1fee8d0de79.jpg)
 
