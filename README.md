@@ -15,6 +15,9 @@ of the modules are as follows:
 
 
 Student: 
+
+
+
 The student selects various courses available on the website. Students will 
 get content related to the course which he/she has opted for from the basic to 
 the advanced level . They will also have an access to the few online courses 
@@ -33,5 +36,8 @@ Administrator:
 Publish the content of various courses uploaded earlier and come with the 
 course of new technology which is in demand in the IT sector and provide 
 the new technical questions to the users for their practice.
+
+
+
 
 ![imageFirst](https://user-images.githubusercontent.com/81029259/203773242-530e794a-496c-4f51-965e-3e03bc5590cd.jpg)
