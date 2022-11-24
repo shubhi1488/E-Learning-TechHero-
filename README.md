@@ -44,8 +44,19 @@ the new technical questions to the users for their practice.
 ![imageFirst](https://user-images.githubusercontent.com/81029259/203773242-530e794a-496c-4f51-965e-3e03bc5590cd.jpg)
 
 # OUR COURSES
+
+These courses contains free material that we can access and download.
+
 ![cources](https://user-images.githubusercontent.com/81029259/203776095-df9b9e72-2eb8-4930-bed6-df9a27905a11.jpg)
 
 
+
+![moreCourses](https://user-images.githubusercontent.com/81029259/203776581-8cc72673-b7a6-40ff-b709-8cdca71dc89a.jpg)
+
+
+# COMING SOON COURSES
+
+
+![omming soon](https://user-images.githubusercontent.com/81029259/203777086-74a7410f-e366-42ab-bf94-f1fee8d0de79.jpg)
 
 
