@@ -24,4 +24,14 @@ placements rounds.
 If any difficulty is faced by any user than they can directly contact to the 
 concerned person.
 
+
+Administrator:
+
+
+
+
+Publish the content of various courses uploaded earlier and come with the 
+course of new technology which is in demand in the IT sector and provide 
+the new technical questions to the users for their practice.
+
 ![imageFirst](https://user-images.githubusercontent.com/81029259/203773242-530e794a-496c-4f51-965e-3e03bc5590cd.jpg)
