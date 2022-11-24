@@ -1,3 +1,27 @@
 # E-Learning-TechHero-
 E-Learning website(mini Project)
+
+
+This is a E-Learning website named TechHero.
+The purpose of this project is to develop a website for the B.Tech Computer 
+science students who are in search for the good content to learn basic technologies 
+like Data Structures & Algorithms, Web development etc. 
+This website will provide some videos of the interviews conducted by some 
+companies like Amazon, Google etc. and it will also contain a practice session 
+containing frequently asked questions in placement rounds. 
+The project is divided into 2 modules-student and administrator. The roles 
+of the modules are as follows:
+
+
+
+Student: 
+The student selects various courses available on the website. Students will 
+get content related to the course which he/she has opted for from the basic to 
+the advanced level . They will also have an access to the few online courses 
+from various platforms like Udemy, coursera etc. Students can also test their 
+skills from our practice section having questions directly asked in 
+placements rounds. 
+If any difficulty is faced by any user than they can directly contact to the 
+concerned person.
+
 ![imageFirst](https://user-images.githubusercontent.com/81029259/203773242-530e794a-496c-4f51-965e-3e03bc5590cd.jpg)
