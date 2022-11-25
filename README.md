@@ -72,9 +72,14 @@ The main purpose of making to_do list is to make user  remember  to complete the
 # Suggested Books
 
 
+
 ![Screenshot 2022-11-25 093056](https://user-images.githubusercontent.com/81029259/203898869-b6256b37-1db4-47d3-b912-3f0aaaf6b8f1.jpg)
 
 # Educational Blogs
+
+
+The main purpose of this webpage is provide the blogs related to latest technologies.As we know that technology changes very fast as this page provide all the blogs related to the new technologies.
+
 
 ![aaaaa](https://user-images.githubusercontent.com/81029259/203899369-ad22414c-6fe4-4c4d-86a3-0dafa9649f82.jpg)
 
