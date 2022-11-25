@@ -71,7 +71,7 @@ The main purpose of making to_do list is to make user  remember  to complete the
 
 # Suggested Books
 The main purpose of this webpage is to provide the user the most suggested books . Actually if the user is a begainer and if they want to purchase the book 
-so the can directly come to this page and get highly rated books from the experts.
+so they can directly come to this page and get highly rated books from the experts.
 
 
 ![Screenshot 2022-11-25 093056](https://user-images.githubusercontent.com/81029259/203898869-b6256b37-1db4-47d3-b912-3f0aaaf6b8f1.jpg)
@@ -85,4 +85,4 @@ The main purpose of this webpage is provide the blogs related to latest technolo
 ![aaaaa](https://user-images.githubusercontent.com/81029259/203899369-ad22414c-6fe4-4c4d-86a3-0dafa9649f82.jpg)
 
 
-
+# THANK YOU
