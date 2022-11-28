@@ -5,6 +5,9 @@ E-Learning website
 # website Link
 https://shubhi1488.github.io/TechHero/
 
+google drive link-
+https://drive.google.com/drive/folders/1KBq6Ro_hDSszhhCreX2UJI4ykooHmkuf?usp=share_link
+
 
 This is a E-Learning website named TechHero.
 The purpose of this project is to develop a website for the B.Tech Computer 
